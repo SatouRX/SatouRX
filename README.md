@@ -1,6 +1,3 @@
-<!--
-**SatouRX/SatouRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Zihao Gao
 
 ### Undergraduate Student
@@ -19,5 +16,3 @@ Here are some ideas to get you started:
 ## Skills
  - Natural Language: Chinese (Native); English (Duolingo-100 points); Japanese (JLPT-N1)
  - Programming Language: Python, R
-
--->
