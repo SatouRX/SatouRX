@@ -13,5 +13,5 @@ Tokyo, Japan, 170-0013
 
 
 ## Skills
- - Natural Language: Chinese (Native); English (Duolingo-100 points); Japanese (JLPT-N1)
+ - Natural Language: Chinese (Native); English (TOEIC-860 points); Japanese (JLPT-N1)
  - Programming Language: Python, R
